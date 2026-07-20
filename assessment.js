@@ -2,7 +2,7 @@
 const userNameInput = document.getElementById('user-name');
 const assessmentButton =document.getElementById('assessment')
 const resultDivision = document.getElementById('result-area')
-const tweetDivision = document.getElementById('tweet-area')
+const tweetDivision = document.getElementById('tweet-area')　
 assessmentButton.addEventListener('click',
   
   function(){
